@@ -5,17 +5,17 @@
   },
 
   "Characters": {
-    "Meguna": {"Tier": 1500, "PlayersPermission": [], "Icon": 102018078185174},
-    "Diavolo": {"Tier": 1, "PlayersPermission": [], "Icon": 6283115481},
-    "Madara": {"Tier": 1000, "PlayersPermission": [], "Icon": 7105102939},
-    "Itadori": {"Tier": 1000, "PlayersPermission": [], "Icon": 7061182461},
-    "Itachi": {"Tier": 1000, "PlayersPermission": [], "Icon": 5561921617},
-    "GojoTeen": {"Tier": 1000, "PlayersPermission": [], "Icon": 14023532241},
-    "Eren": {"Tier": 200, "PlayersPermission": [], "Icon": 5526435935},
-    "SukunaHeian": {"Tier": 2000, "PlayersPermission": [], "Icon": 112861864668055},
-    "Inumaki": {"Tier": 2000, "PlayersPermission": [], "Icon": 6421507763},
-    "Giorno": {"Tier": 2500, "PlayersPermission": [], "Icon": 7148008553},
-    "Will": {"Tier": 100, "PlayersPermission": [], "Icon": 98611944137962},
-    "Estarossa": {"Tier": 100, "PlayersPermission": [], "Icon": 80148128373189}
+    "Meguna": {"Tier": 1500, "PlayersPermission": [9592003273], "Icon": 102018078185174},
+    "Diavolo": {"Tier": 1, "PlayersPermission": [9592003273], "Icon": 6283115481},
+    "Madara": {"Tier": 1000, "PlayersPermission": [9592003273], "Icon": 7105102939},
+    "Itadori": {"Tier": 1000, "PlayersPermission": [9592003273], "Icon": 7061182461},
+    "Itachi": {"Tier": 1000, "PlayersPermission": [9592003273], "Icon": 5561921617},
+    "GojoTeen": {"Tier": 1000, "PlayersPermission": [9592003273], "Icon": 14023532241},
+    "Eren": {"Tier": 200, "PlayersPermission": [9592003273], "Icon": 5526435935},
+    "SukunaHeian": {"Tier": 2000, "PlayersPermission": [9592003273], "Icon": 112861864668055},
+    "Inumaki": {"Tier": 2000, "PlayersPermission": [9592003273], "Icon": 6421507763},
+    "Giorno": {"Tier": 2500, "PlayersPermission": [9592003273], "Icon": 7148008553},
+    "Will": {"Tier": 100, "PlayersPermission": [9592003273], "Icon": 98611944137962},
+    "Estarossa": {"Tier": 100, "PlayersPermission": [9592003273], "Icon": 80148128373189}
   }
 }
